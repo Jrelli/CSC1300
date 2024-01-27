@@ -1,0 +1,23 @@
+{
+    "files.associations": {
+        "ostream": "cpp",
+        "iostream": "cpp",
+        "random": "cpp",
+        "iomanip": "cpp",
+        "string": "cpp",
+        "iosfwd": "cpp",
+        "*.tcc": "cpp",
+        "istream": "cpp",
+        "iterator": "cpp",
+        "array": "cpp",
+        "tuple": "cpp"
+    },
+    "cSpell.words": [
+        "Borrelli",
+        "Loompas",
+        "Oompa",
+        "Oompas",
+        "Wonka",
+        "Wonka's"
+    ]
+}

@@ -1,0 +1,4 @@
+3 burgers were added and the total is now $42.75
+
+
+The total for your order is $42.75
